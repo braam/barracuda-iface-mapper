@@ -1,0 +1,8 @@
+# C610.map
+# 
+I2EMAP_eth0=port1
+I2EMAP_eth1=port2
+#
+E2IMAP_port1=eth0
+E2IMAP_port2=eth1
+

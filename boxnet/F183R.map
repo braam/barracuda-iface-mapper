@@ -1,0 +1,18 @@
+# F183R.map
+# #
+I2EMAP_eth0=p1
+I2EMAP_eth1=p2
+I2EMAP_eth2=p3
+I2EMAP_eth3=p4
+I2EMAP_eth4=p5
+I2EMAP_eth5=p6
+I2EMAP_eth6=p7
+#
+E2IMAP_p1=eth0
+E2IMAP_p2=eth1
+E2IMAP_p3=eth2
+E2IMAP_p4=eth3
+E2IMAP_p5=eth4
+E2IMAP_p6=eth5
+E2IMAP_p7=eth6
+

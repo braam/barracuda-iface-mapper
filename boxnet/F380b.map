@@ -1,0 +1,24 @@
+# F380b.map
+#
+I2EMAP_eth0=p5
+I2EMAP_eth1=p6
+I2EMAP_eth2=p7
+I2EMAP_eth3=p8
+I2EMAP_eth4=p4
+I2EMAP_eth5=p3
+I2EMAP_eth6=p2
+I2EMAP_eth7=p1
+I2EMAP_eth8=pA2
+I2EMAP_eth9=pA1
+#
+E2IMAP_p1=eth7
+E2IMAP_p2=eth6
+E2IMAP_p3=eth5
+E2IMAP_p4=eth4
+E2IMAP_p5=eth0
+E2IMAP_p6=eth1
+E2IMAP_p7=eth2
+E2IMAP_p8=eth3
+E2IMAP_pA1=eth9
+E2IMAP_pA2=eth8
+

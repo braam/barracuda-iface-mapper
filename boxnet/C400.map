@@ -1,0 +1,8 @@
+# C400.map
+# 
+I2EMAP_eth0=port2
+I2EMAP_eth1=port1
+#
+E2IMAP_port1=eth1
+E2IMAP_port2=eth0
+
